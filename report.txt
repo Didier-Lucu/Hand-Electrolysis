@@ -1,0 +1,119 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'U8:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'Q6:'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U1:RF_Module:ESP32-WROOM-32D'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100'.
+Info: Processing symbol 'Q10:'.
+Info: Processing symbol 'J6:CONN_105-1102-001'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U6:Extra:SOT95P280X145-6N'.
+Info: Processing symbol 'U4:Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'Q4:'.
+Info: Processing symbol 'Q5:'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'Q7:'.
+Info: Processing symbol 'J4:CUI_PJ-002B'.
+Info: Processing symbol 'Q11:'.
+Info: Processing symbol 'D3:'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'L3:IND_2012_TDK'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'Q3:'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'U3:DDA0008E_N'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'CR1:SOD-123F_LTF'.
+Info: Processing symbol 'C3:'.
+Info: Processing symbol 'J1:CONN_105-1102-001'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'J5:Connector_USB:USB_C_Receptacle_Amphenol_12401948E412A'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'L2:IND_2012_TDK'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'D4:'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'L4:Inductor_SMD:L_0805_2012Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'Q2:'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'F2:Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U7:Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'F3:Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-583-8'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'D5:Extra:DIO_PESD5V0S1UL_315'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-363_SC-70-6'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric'.
+Change J4 footprint from 'Extra:CUI_PJ-002B' to 'CUI_PJ-002B'.
+Change L3 footprint from 'Extra:IND_2012_TDK' to 'IND_2012_TDK'.
+Change L2 footprint from 'Extra:IND_2012_TDK' to 'IND_2012_TDK'.
+Change J6 footprint from 'Extra:CONN_105-1102-001' to 'CONN_105-1102-001'.
+Change J1 footprint from 'Extra:CONN_105-1102-001' to 'CONN_105-1102-001'.
+Error: Cannot add Q5 (no footprint assigned).
+Error: Cannot add Q11 (no footprint assigned).
+Error: Cannot add Q10 (no footprint assigned).
+Error: Cannot add Q7 (no footprint assigned).
+Error: Cannot add Q6 (no footprint assigned).
+Error: Cannot add Q3 (no footprint assigned).
+Error: Cannot add Q2 (no footprint assigned).
+Error: Cannot add D4 (no footprint assigned).
+Error: Cannot add D3 (no footprint assigned).
+Error: Cannot add U3 (footprint 'DDA0008E_N' not found).
+Error: Cannot add CR1 (footprint 'SOD-123F_LTF' not found).
+Error: Cannot add C3 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add Q4 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 15.
